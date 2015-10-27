@@ -1,0 +1,41 @@
+{
+  "name": "rabby",
+  "version": "1.0.10",
+  "description": "",
+  "main": "rabby.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Ali Reza",
+    "email": "alirezayahya@gmail.com",
+    "url": "https://github.com/alileza"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "amqplib": "^0.4.0",
+    "coffee-script": "^1.10.0",
+    "underscore": "^1.8.3"
+  },
+  "_id": "rabby@1.0.10",
+  "_shasum": "9f2c0b8f73f4e3644b7e26ab03374734bdf58cd9",
+  "_from": "rabby@*",
+  "_npmVersion": "2.14.7",
+  "_nodeVersion": "4.2.1",
+  "_npmUser": {
+    "name": "alileza",
+    "email": "alirezayahya@gmail.com"
+  },
+  "dist": {
+    "shasum": "9f2c0b8f73f4e3644b7e26ab03374734bdf58cd9",
+    "tarball": "http://registry.npmjs.org/rabby/-/rabby-1.0.10.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "alileza",
+      "email": "alirezayahya@gmail.com"
+    }
+  ],
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/rabby/-/rabby-1.0.10.tgz"
+}
